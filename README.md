@@ -9,6 +9,7 @@ Vale ressaltar que os direitos de imagem pertecem a Netflix, e os dados foram ob
 
 Ferramentas utilizadas:
 VSCode,
+React,
 JavaScript,
 HTML,
 CSS,
@@ -19,12 +20,14 @@ HOME
 Esta é a página inicial da aplicação.
 ![](images/home.JPG)
 
-Litas
+LISTAS
 
 Estas são as listas com movimento(scroll lateral).
 ![](images/lists.JPG)
 
-Mobile
+MOBILE
 
 Esta é uma demostração da resposividade da aplicação(no caso tela do IphoneX).
+
+
 ![](images/iphoneX.JPG)
