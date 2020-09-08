@@ -28,6 +28,4 @@ Estas são as listas com movimento(scroll lateral).
 MOBILE
 
 Esta é uma demostração da resposividade da aplicação(no caso tela do IphoneX).
-
-
 ![](images/iphoneX.JPG)
